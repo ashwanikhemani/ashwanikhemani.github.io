@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Ashwani Khemani</title>
+    <link>//localhost:1313/tags/devops/</link>
+    <description>Recent content in DevOps on Ashwani Khemani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
+      <link>//localhost:1313/project/pa/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/pa/</guid>
+      <description> Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
+ Java, Jenkins, GitHub
+  </description>
+    </item>
+    
+    <item>
+      <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
+      <link>//localhost:1313/project/do/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/do/</guid>
+      <description> Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  </description>
+    </item>
+    
+    <item>
+      <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
+      <link>//localhost:1313/project/sca/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/sca/</guid>
+      <description> Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,11 +22,29 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>//localhost:1313/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Cloud</title>
+      <link>//localhost:1313/tags/cloud/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/tags/demo/</guid>
+      <guid>//localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>//localhost:1313/tags/devops/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>//localhost:1313/tags/machine-learning/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     

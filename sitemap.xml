@@ -4,6 +4,78 @@
     
     <url>
     
+      <loc>//localhost:1313/project/pa/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/crf/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/do/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/maskrcnn/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/mcs/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/st/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/sm/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/sca/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/project/crf_1/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>//localhost:1313/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-05:00</lastmod>
     </url>
@@ -46,14 +118,6 @@
     
       <loc>//localhost:1313/talk/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>//localhost:1313/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -128,8 +192,26 @@
     
     <url>
     
-      <loc>//localhost:1313/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <loc>//localhost:1313/tags/cloud/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/tags/devops/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>//localhost:1313/tags/machine-learning/</loc>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,7 +220,7 @@
     <url>
     
       <loc>//localhost:1313/project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

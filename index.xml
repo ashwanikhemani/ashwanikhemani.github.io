@@ -11,6 +11,176 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
+      <link>//localhost:1313/project/pa/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/pa/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops
+pipelines.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Java, Jenkins, GitHub&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conditional Random Field for optical character recognition (OCR)</title>
+      <link>//localhost:1313/project/crf/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/crf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc,
+leveraging its parallel primitives and testing the scalability on cluster&lt;/li&gt;
+&lt;li&gt;Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
+      <link>//localhost:1313/project/do/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/do/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Created a DevOps application workflow for automatically building and analyzing software applications statically as part of
+the workflow to obtain information about relationships among components of these applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java, Jenkins, Gitlab, GitHub&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instance Segmentation using Convolutional Neural Networks</title>
+      <link>//localhost:1313/project/maskrcnn/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/maskrcnn/</guid>
+      <description>&lt;p&gt;The Mask R-CNN (Regional Convolutional Neural Network) can be used in instance
+segmentation, and has been quite sucessful when compared with other architectures
+for the same task. In this project we look at its performance on two
+well known datasets, cityscapes and CSAIL Places, and try to see the impact of
+modifying hyperparameters and using different network architectures in the backbone.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Summary of the Problem
+Instance Segmentation is the combination of three other tasks making it very difficult. Those three
+tasks are Image Classification, Object Detection, and Semantic Segmentation. See Figure 1 for an
+overview of the task.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instance Segmentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Classification, being the most studied of the three, is a task where you are given an image
+and the goal is to classify it. Examples of such studies are those done on the MNIST dataset [1].
+In MNIST, the task is to classify handwritten digits given only an image of the digit. Some of the
+most successful approaches involve CNN architectures, like VGG, GoogleLeNet, ResNet, and many
+others.
+Object Detection has the same domain, but the goal is to find all instances of an object and find the
+smallest bounding box around the object. One way to structure this as a machine learning task is
+to formulate it as a Regression problem, where the bounding box is defined by a set of coordinates.
+This is done in our Mask R-CNN implementation and its immediate predecessor, Faster R-CNN [2].
+The goal of Semantic Segmentation is to classify each pixel, effectively segmenting an image into its
+semantic components. This was a difficult task because there was no obvious way to generate predictions
+for each pixel, without feeding the whole image multiple times through a traditional CNN
+classification network, and this would make the problem intractable. One well known solution to
+this is to use a Fully Convolutional Network (FCN), which would have an Encoder/Decoder structure
+by first using Convolution Layers and Pooling&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Cityscapes&lt;/strong&gt;
+Cityscapes has data from street scenes, so an application of a network trained on this dataset is
+autonomous vehicles. The dataset has approximately 5,000 examples and 30 classes with fine grain
+annotations. We used about 3,500 for training and 500 for validation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;CSAIL Places&lt;/strong&gt;
+This dataset is more general and has a wide variety of scenes. It has approximately 20K examples
+(2K validation), with annotations, and 100 classes. The CSAIL places dataset will give us an opportunity
+to compare our results with work published that tested with more popular datasets like
+MSCOCO [4].&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mask R-CNN Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/arch_mask.png&#34; alt=&#34;Mask R-CNN Architecture&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo simulation with OctaPi cloud</title>
+      <link>//localhost:1313/project/mcs/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/mcs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on
+private OctaPi cloud using Kubernetes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java, Spark, Docker, K8s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallelization of software testing using Hadoop Map-Reduce model and OctaPi Cluster</title>
+      <link>//localhost:1313/project/st/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/st/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make
+software testing process parallel and efficient
+Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java, Hadoop, Docker, K8s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Twitter Corpus</title>
+      <link>//localhost:1313/project/sm/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/sm/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis
+on twitter dataset&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
+      <link>//localhost:1313/project/sca/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/sca/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful
+pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python, GitHub, Understand&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structured Output Prediction using Conditional Random Fields</title>
+      <link>//localhost:1313/project/crf_1/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/project/crf_1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference
+and performance test&lt;/li&gt;
+&lt;li&gt;Performed benchmarking by comparing CRF with multi-class linear SVM&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>//localhost:1313/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
@@ -52,15 +222,6 @@
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>//localhost:1313/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>//localhost:1313/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>
