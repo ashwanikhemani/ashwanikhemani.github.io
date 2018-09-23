@@ -22,6 +22,8 @@ pipelines.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Java, Jenkins, GitHub&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/PipelineAnalyzer&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,6 +38,8 @@ pipelines.&lt;/p&gt;&lt;/li&gt;
 leveraging its parallel primitives and testing the scalability on cluster&lt;/li&gt;
 &lt;li&gt;Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/ConvexOptimization&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,6 +54,8 @@ leveraging its parallel primitives and testing the scalability on cluster&lt;/li
 the workflow to obtain information about relationships among components of these applications.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Java, Jenkins, Gitlab, GitHub&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/DevOpsOrchester&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
@@ -120,6 +126,8 @@ MSCOCO [4].&lt;/p&gt;&lt;/li&gt;
 private OctaPi cloud using Kubernetes&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Java, Spark, Docker, K8s&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/OctaPi--MonteCarloTradingSimulator&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
@@ -135,6 +143,8 @@ software testing process parallel and efficient
 Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Java, Hadoop, Docker, K8s&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/OctaPi-HadoopMR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
@@ -149,6 +159,8 @@ Automated deploying, scaling, and operating application containers on Raspberry 
 &lt;li&gt;Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis
 on twitter dataset&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/TwitterSentimentAnalysis&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
@@ -163,6 +175,8 @@ on twitter dataset&lt;/li&gt;
 pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Python, GitHub, Understand&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/StaticCodeAnalyzer&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -177,6 +191,8 @@ pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
 and performance test&lt;/li&gt;
 &lt;li&gt;Performed benchmarking by comparing CRF with multi-class linear SVM&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/CRF&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
