@@ -18,7 +18,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/mcs/</guid>
-      <description> Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  </description>
+      <description>Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  Source Code available here .</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/st/</guid>
-      <description> Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  </description>
+      <description>Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  Source Code available here .</description>
     </item>
     
   </channel>

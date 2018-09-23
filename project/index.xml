@@ -18,9 +18,9 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/pa/</guid>
-      <description> Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
+      <description>Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
  Java, Jenkins, GitHub
-  </description>
+  Source Code available here.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/crf/</guid>
-      <description> Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  </description>
+      <description>Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  Source Code available here.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/do/</guid>
-      <description> Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  </description>
+      <description>Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  Source Code available here .</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/mcs/</guid>
-      <description> Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  </description>
+      <description>Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  Source Code available here .</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/st/</guid>
-      <description> Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  </description>
+      <description>Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  Source Code available here .</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/sm/</guid>
-      <description> Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  </description>
+      <description>Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  Source Code available here .</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/sca/</guid>
-      <description> Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  </description>
+      <description>Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  Source Code available here.</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/crf_1/</guid>
-      <description> Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  </description>
+      <description>Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  Source Code available here .</description>
     </item>
     
   </channel>

@@ -18,9 +18,9 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/pa/</guid>
-      <description> Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
+      <description>Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
  Java, Jenkins, GitHub
-  </description>
+  Source Code available here.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/do/</guid>
-      <description> Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  </description>
+      <description>Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  Source Code available here .</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/sca/</guid>
-      <description> Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  </description>
+      <description>Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  Source Code available here.</description>
     </item>
     
   </channel>

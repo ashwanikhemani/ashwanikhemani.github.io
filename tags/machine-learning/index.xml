@@ -18,7 +18,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/crf/</guid>
-      <description> Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  </description>
+      <description>Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  Source Code available here.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/sm/</guid>
-      <description> Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  </description>
+      <description>Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  Source Code available here .</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/project/crf_1/</guid>
-      <description> Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  </description>
+      <description>Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  Source Code available here .</description>
     </item>
     
   </channel>
