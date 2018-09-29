@@ -7,35 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>//localhost:1313/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Cloud</title>
+      <link>//localhost:1313/tags/cloud/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/tags/academic/</guid>
+      <guid>//localhost:1313/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>//localhost:1313/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <title>DevOps</title>
+      <link>//localhost:1313/tags/devops/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/tags/deep-learning/</guid>
+      <guid>//localhost:1313/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>//localhost:1313/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Machine-learning</title>
+      <link>//localhost:1313/tags/machine-learning/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/tags/demo/</guid>
+      <guid>//localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>//localhost:1313/tags/others/</link>
+      <pubDate>Fri, 28 Sep 2018 20:23:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/others/</guid>
       <description></description>
     </item>
     
