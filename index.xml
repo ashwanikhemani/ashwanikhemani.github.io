@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashwani Khemani on Ashwani Khemani</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Ashwani Khemani on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Time for a new beginning !!</title>
-      <link>//localhost:1313/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Fri, 28 Sep 2018 20:23:00 -0500</pubDate>
       
-      <guid>//localhost:1313/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;A few days ago I read the following tweet somewhere on the internet !!&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;When you’ve written the same code 3 times, write a function&lt;br&gt;&lt;br&gt;When you’ve given the same in-person advice 3 times, write a blog post&lt;/p&gt;&amp;mdash; David Robinson (@drob) &lt;a href=&#34;https://twitter.com/drob/status/928447584712253440?ref_src=twsrc%5Etfw&#34;&gt;November 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
@@ -40,10 +40,10 @@ I love to read about a lot of varied topics and yes anything related to the comp
     
     <item>
       <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
-      <link>//localhost:1313/project/pa/</link>
+      <link>/project/pa/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/pa/</guid>
+      <guid>/project/pa/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops
 pipelines.&lt;/p&gt;&lt;/li&gt;
@@ -57,10 +57,10 @@ pipelines.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Conditional Random Field for optical character recognition (OCR)</title>
-      <link>//localhost:1313/project/crf/</link>
+      <link>/project/crf/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/crf/</guid>
+      <guid>/project/crf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc,
 leveraging its parallel primitives and testing the scalability on cluster&lt;/li&gt;
@@ -73,10 +73,10 @@ leveraging its parallel primitives and testing the scalability on cluster&lt;/li
     
     <item>
       <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
-      <link>//localhost:1313/project/do/</link>
+      <link>/project/do/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/do/</guid>
+      <guid>/project/do/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Created a DevOps application workflow for automatically building and analyzing software applications statically as part of
 the workflow to obtain information about relationships among components of these applications.&lt;/li&gt;
@@ -89,10 +89,10 @@ the workflow to obtain information about relationships among components of these
     
     <item>
       <title>Instance Segmentation using Convolutional Neural Networks</title>
-      <link>//localhost:1313/project/maskrcnn/</link>
+      <link>/project/maskrcnn/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/maskrcnn/</guid>
+      <guid>/project/maskrcnn/</guid>
       <description>&lt;p&gt;The Mask R-CNN (Regional Convolutional Neural Network) can be used in instance
 segmentation, and has been quite sucessful when compared with other architectures
 for the same task. In this project we look at its performance on two
@@ -139,16 +139,16 @@ MSCOCO [4].&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Mask R-CNN Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/arch_mask.png&#34; alt=&#34;Mask R-CNN Architecture&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/arch_mask.png&#34; alt=&#34;Mask R-CNN Architecture&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Monte-Carlo simulation with OctaPi cloud</title>
-      <link>//localhost:1313/project/mcs/</link>
+      <link>/project/mcs/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/mcs/</guid>
+      <guid>/project/mcs/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on
 private OctaPi cloud using Kubernetes&lt;/li&gt;
@@ -161,10 +161,10 @@ private OctaPi cloud using Kubernetes&lt;/li&gt;
     
     <item>
       <title>Parallelization of software testing using Hadoop Map-Reduce model and OctaPi Cluster</title>
-      <link>//localhost:1313/project/st/</link>
+      <link>/project/st/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/st/</guid>
+      <guid>/project/st/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make
 software testing process parallel and efficient
@@ -178,10 +178,10 @@ Automated deploying, scaling, and operating application containers on Raspberry 
     
     <item>
       <title>Sentiment Analysis of Twitter Corpus</title>
-      <link>//localhost:1313/project/sm/</link>
+      <link>/project/sm/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/sm/</guid>
+      <guid>/project/sm/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis&lt;/li&gt;
 &lt;li&gt;Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis
@@ -194,10 +194,10 @@ on twitter dataset&lt;/li&gt;
     
     <item>
       <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
-      <link>//localhost:1313/project/sca/</link>
+      <link>/project/sca/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/sca/</guid>
+      <guid>/project/sca/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful
 pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
@@ -210,10 +210,10 @@ pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
     
     <item>
       <title>Structured Output Prediction using Conditional Random Fields</title>
-      <link>//localhost:1313/project/crf_1/</link>
+      <link>/project/crf_1/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/project/crf_1/</guid>
+      <guid>/project/crf_1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference
 and performance test&lt;/li&gt;
