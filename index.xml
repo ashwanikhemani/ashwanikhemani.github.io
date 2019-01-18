@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Weather Updates !!</title>
+      <link>/post/weather/</link>
+      <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/weather/</guid>
+      <description>&lt;p&gt;I get my weather updates from the &lt;a href=&#34;https://weather.com/&#34; target=&#34;_blank&#34;&gt;weather channel&lt;/a&gt; !!!
+I usually visit weather channel because it provides the most accurate and up to date weather updates.
+It shows hourly, daily and weekly weather forecast in an organized manner.
+The website and phone application are easy to navigate and to use.
+I highly recommend the application to everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/weather.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Time for a new beginning !!</title>
       <link>/post/getting-started/</link>
       <pubDate>Fri, 28 Sep 2018 20:23:00 -0500</pubDate>
