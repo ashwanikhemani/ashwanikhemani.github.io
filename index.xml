@@ -11,6 +11,172 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Just Breathe !!</title>
+      <link>/post/evlproject1/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1/</guid>
+      <description>&lt;p&gt;This page contains the link to the visualization solution optimized for the classroom wall and a description of how to use your application and the things that can be done with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;Project Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To use this application follow the following steps :&lt;/p&gt;
+
+&lt;p&gt;The home page consists of a shiny dashboard with a side menu to choose what type of visualization user wants to see.
+The side menu has two options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One County - visualization consisting of one county.&lt;/li&gt;
+&lt;li&gt;Multiple County - visualization consisting of more than one county&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One the user select a side menu option, the corresponding page for the visualization loads.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One County:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this page, there are three input options for the user to select.
+The user has to select one of the available options in the drop down menu in a sequential order.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Year&lt;/li&gt;
+&lt;li&gt;State&lt;/li&gt;
+&lt;li&gt;County&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user will then be able to see the different visualization on the screen below by navigating the
+different tabs provided in the panels below.&lt;/p&gt;
+
+&lt;p&gt;The first panel has three visualizations for the Air Quality of the state,county and year selected by the user:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pie chart showing the percentage of days where the AQI could be good / moderate / unhealthy for sensitive / unhealthy / very unhealthy / hazardous&lt;/li&gt;
+&lt;li&gt;a bar chart showing the number of days where the AQI could be good / moderate / unhealthy for sensitive / unhealthy / very unhealthy / hazardous&lt;/li&gt;
+&lt;li&gt;table showing the number of days where the AQI could be good / moderate / unhealthy for sensitive / unhealthy / very unhealthy / hazardous&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The second panel has eight visualizations based on the user input of state , county and year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;pie chart for each individual pollutant (CO, NO2, Ozone, SO2, PM2.5, PM10 ) showing the percentage of days in the year with that pollutant as the main pollutant (6 charts)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;bar chart showing the number of CO, NO2, Ozone, SO2, PM2.5, PM10 days as the main pollutant&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;table showing the number of CO, NO2, Ozone, SO2, PM2.5, PM10 days as the main pollutant&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The third panel has 9 visualizations based on the user input of state , county and year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a line graph using the annual data from 1980-2018 showing lines for the median, 90th percentile, and max AQI over those years (i.e. the graph should have 3 lines)&lt;/li&gt;
+&lt;li&gt;a line graph showing the percentages over the years for days CO / days NO2 / days Ozone, days SO2 / days PM2.5 / days pm10 (i.e. the graph should have 6 lines)&lt;/li&gt;
+&lt;li&gt;6 tables showing the percentages over the years for days CO / days NO2 / days Ozone, days SO2 / days PM2.5 / days pm10&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;location of the chosen county on a pannable and zoomable world map&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe - Code !!</title>
+      <link>/post/evlproject1code/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1code/</guid>
+      <description>&lt;p&gt;The code for the project can be found &lt;a href=&#34;https://github.com/ashwanikhemani/JustBreathe&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;The data needed for the project is available in the root folder and the map data is available in the map folder of the project.&lt;/p&gt;
+
+&lt;p&gt;The instructions to run the code:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Online : The project can be run through this &lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Offline : To run the project in the local environment , please follow the below instructions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Download the R-language from the &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R-website&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Download R-Studio free version from this website &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;R-Studio&lt;/a&gt; and then install it
+your system.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Once R-Studio is installed, open the R-Studio using the application file and download the following packages in R-Studio:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;library(shiny)&lt;/li&gt;
+&lt;li&gt;library(shinydashboard)&lt;/li&gt;
+&lt;li&gt;library(ggplot2)&lt;/li&gt;
+&lt;li&gt;library(lubridate)&lt;/li&gt;
+&lt;li&gt;library(DT)&lt;/li&gt;
+&lt;li&gt;library(jpeg)&lt;/li&gt;
+&lt;li&gt;library(grid)&lt;/li&gt;
+&lt;li&gt;library(leaflet)&lt;/li&gt;
+&lt;li&gt;library(scales)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The packages can be downloaded using the packages menu on the right side in R-Studio home screen. Search the package by name and install the
+above packages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Once the packages are installed, the user can open the project from source code link provided
+&lt;a href=&#34;https://github.com/ashwanikhemani/JustBreathe&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To run the applications, open the app.R and click on Run App button on the upper right side of app.R file screen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The user should now be able to see the various visualization done as part of the Just-Breathe application.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The entire source code has been written using R language and using packages above.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe - Data!!</title>
+      <link>/post/evlproject1data/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1data/</guid>
+      <description>&lt;p&gt;The page contains information about the data used in the Just Breathe project. The data was downloaded from the EPA website.&lt;/p&gt;
+
+&lt;p&gt;The link to download the data is &lt;a href=&#34;https://aqs.epa.gov/aqsweb/airdata/download_files.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The files for annual summary of data for counties was downloaded from years 1980-2018.&lt;/p&gt;
+
+&lt;p&gt;The files were then extracted and imported using R Studio to create visualization as described in the &lt;a href=&#34;http://ashwani.khemani.github.io/post/evlproject1/&#34; target=&#34;_blank&#34;&gt;project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe --Findings !!</title>
+      <link>/post/evlproject1findings/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1findings/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;Project Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting things which were found about the data using the application.&lt;/p&gt;
+
+&lt;p&gt;The findings are given below for the Cook county of Illinois.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amongst the pollutants, SO2 pollutant has shown a relatively downward trend over the last 25 years with some exceptions in certain years.&lt;/li&gt;
+&lt;li&gt;PM2.5 pollutant has shown a relatively upward trend over the last 25 years with some exceptions in certain years.&lt;/li&gt;
+&lt;li&gt;CO , Carbon monozide emission has been neglible over the last 20 years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These trends show that there has been an effor to reduce harmful emissions but at the same time there are still emissions that need to be controlled to bring them under permissible range.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;While comparing different states and their counties, the air Quality in Cook county in Illinois was found to be worse as comapred to those in Florida state.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;States like Nebraska , Utah have comparitively good air quality as compared to states like Illinois, California.
+The counties in these states with less population show air quality as expected. The states and the counties which large population
+and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The X-Rite Color Challenge and Hue Test !!</title>
       <link>/post/color_test/</link>
       <pubDate>Wed, 30 Jan 2019 12:54:00 -0600</pubDate>
@@ -229,38 +395,6 @@ on twitter dataset&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/TwitterSentimentAnalysis&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
-      <link>/project/sca/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/sca/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful
-pattern amongst them using static code analysis tool like Understand&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Python, GitHub, Understand&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/StaticCodeAnalyzer&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structured Output Prediction using Conditional Random Fields</title>
-      <link>/project/crf_1/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/crf_1/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference
-and performance test&lt;/li&gt;
-&lt;li&gt;Performed benchmarking by comparing CRF with multi-class linear SVM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/CRF&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     

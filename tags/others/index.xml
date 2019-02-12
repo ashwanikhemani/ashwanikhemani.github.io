@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Jan 2019 12:54:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 19:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/others/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Just Breathe !!</title>
+      <link>/post/evlproject1/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1/</guid>
+      <description>This page contains the link to the visualization solution optimized for the classroom wall and a description of how to use your application and the things that can be done with it.
+Project Link
+To use this application follow the following steps :
+The home page consists of a shiny dashboard with a side menu to choose what type of visualization user wants to see. The side menu has two options:</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe - Code !!</title>
+      <link>/post/evlproject1code/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1code/</guid>
+      <description>The code for the project can be found here .
+The data needed for the project is available in the root folder and the map data is available in the map folder of the project.
+The instructions to run the code:
+ Online : The project can be run through this link
+ Offline : To run the project in the local environment , please follow the below instructions.
+ Download the R-language from the R-website</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe - Data!!</title>
+      <link>/post/evlproject1data/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1data/</guid>
+      <description>The page contains information about the data used in the Just Breathe project. The data was downloaded from the EPA website.
+The link to download the data is here
+The files for annual summary of data for counties was downloaded from years 1980-2018.
+The files were then extracted and imported using R Studio to create visualization as described in the project</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe --Findings !!</title>
+      <link>/post/evlproject1findings/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/evlproject1findings/</guid>
+      <description>Project Link
+Interesting things which were found about the data using the application.
+The findings are given below for the Cook county of Illinois.
+ Amongst the pollutants, SO2 pollutant has shown a relatively downward trend over the last 25 years with some exceptions in certain years. PM2.5 pollutant has shown a relatively upward trend over the last 25 years with some exceptions in certain years. CO , Carbon monozide emission has been neglible over the last 20 years  These trends show that there has been an effor to reduce harmful emissions but at the same time there are still emissions that need to be controlled to bring them under permissible range.</description>
+    </item>
     
     <item>
       <title>The X-Rite Color Challenge and Hue Test !!</title>
