@@ -207,6 +207,15 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Project 1 Intersting Things !!</title>
+      <link>/post/project1group/</link>
+      <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
+      
+      <guid>/post/project1group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Weather Updates !!</title>
       <link>/post/weather/</link>
       <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
@@ -385,22 +394,6 @@ Automated deploying, scaling, and operating application containers on Raspberry 
 &lt;/ul&gt;
 
 &lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/OctaPi-HadoopMR&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sentiment Analysis of Twitter Corpus</title>
-      <link>/project/sm/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/sm/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis&lt;/li&gt;
-&lt;li&gt;Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis
-on twitter dataset&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/TwitterSentimentAnalysis&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
