@@ -83,18 +83,6 @@ EVL Weather</description>
     </item>
     
     <item>
-      <title>Project 1 Intersting Things !!</title>
-      <link>/post/project1group/</link>
-      <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
-      
-      <guid>/post/project1group/</guid>
-      <description>Group:
- Ashwani Khemani Abhishek Vasudevan Varsha Jayaraman  Abhishek solution:
- The UI is easy to navigate and it&amp;rsquo;s easy to follow things on the screen. The colors are pleasing and they work for the color blind people. The different charts had error messages for the case when no data was found for a given user input.  Ashwani solution:
- I think the overall work done by him was good.</description>
-    </item>
-    
-    <item>
       <title>Weather Updates !!</title>
       <link>/post/weather/</link>
       <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
