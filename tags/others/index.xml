@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 19:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 17:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/others/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 1 Interesting Things !!</title>
+      <link>/post/project1group/</link>
+      <pubDate>Tue, 12 Feb 2019 17:00:00 -0600</pubDate>
+      
+      <guid>/post/project1group/</guid>
+      <description>Group:
+ Ashwani Khemani Abhishek Vasudevan Varsha Jayaraman  Abhishek solution:
+ The UI is easy to navigate and it&amp;rsquo;s easy to follow things on the screen. The colors are pleasing and they work for the color blind people. The different charts had error messages for the case when no data was found for a given user input.  Ashwani solution:
+ The overall work done by him was good. He has organized the different visualizations properly .</description>
+    </item>
     
     <item>
       <title>Just Breathe !!</title>
