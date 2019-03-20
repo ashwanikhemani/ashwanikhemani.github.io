@@ -38,13 +38,15 @@
       <guid>https://bhavesh00.github.io/project/evlproject2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists of various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.&lt;/p&gt;
+&lt;p&gt;This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.&lt;/p&gt;
 
 &lt;p&gt;You can access the application from &lt;a href=&#34;http://shiny.evl.uic.edu:3838/g4/EveryBreathYouTake/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 
 &lt;p&gt;You can learn more about the application &lt;a href=&#34;https://mirkomantovani.com/projects/EveryBreathYouTake.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The code for the application is available on &lt;a href=&#34;https://github.com/mirkomantovani/VisualAnalytics-EveryBreathYouTake&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;An short video demonstration of the application is available on &lt;a href=&#34;https://www.youtube.com/watch?v=UCvc0h6yKMg&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
