@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Ashwani Khemani</title>
+    <link>https://bhavesh00.github.io/tags/visualization/</link>
+    <description>Recent content in Visualization on Ashwani Khemani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 13:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bhavesh00.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Every Breath You Take !!</title>
+      <link>https://bhavesh00.github.io/post/evlproject2/</link>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      
+      <guid>https://bhavesh00.github.io/post/evlproject2/</guid>
+      <description>This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.
+You can access the application from here .
+You can learn more about the application here.</description>
+    </item>
+    
+    <item>
+      <title>Every Breath You Take !!</title>
+      <link>https://bhavesh00.github.io/project/evlproject2/</link>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      
+      <guid>https://bhavesh00.github.io/project/evlproject2/</guid>
+      <description>This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists of various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.
+You can access the application from here .
+You can learn more about the application here.</description>
+    </item>
+    
+    <item>
+      <title>Just Breathe !!</title>
+      <link>https://bhavesh00.github.io/project/evlproject1/</link>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      
+      <guid>https://bhavesh00.github.io/project/evlproject1/</guid>
+      <description>This page contains the link to the visualization solution optimized for the EVL classroom wall and a description of how to use the application and the things that can be done with it.
+Project Link
+Youtube Link
+To use this application follow the following steps :
+The home page consists of a shiny dashboard with a side menu to choose what type of visualization user wants to see. The side menu has two options:</description>
+    </item>
+    
+  </channel>
+</rss>

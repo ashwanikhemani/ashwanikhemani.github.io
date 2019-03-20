@@ -2,49 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ashwani Khemani</title>
-    <link>/tags/</link>
+    <link>https://bhavesh00.github.io/tags/</link>
     <description>Recent content in Tags on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bhavesh00.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud</title>
-      <link>/tags/cloud/</link>
+      <link>https://bhavesh00.github.io/tags/cloud/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/tags/cloud/</guid>
+      <guid>https://bhavesh00.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>/tags/devops/</link>
+      <link>https://bhavesh00.github.io/tags/devops/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/tags/devops/</guid>
+      <guid>https://bhavesh00.github.io/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine-learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://bhavesh00.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://bhavesh00.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>/tags/others/</link>
+      <link>https://bhavesh00.github.io/tags/others/</link>
       <pubDate>Tue, 12 Feb 2019 17:00:00 -0600</pubDate>
       
-      <guid>/tags/others/</guid>
+      <guid>https://bhavesh00.github.io/tags/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://bhavesh00.github.io/tags/visualization/</link>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      
+      <guid>https://bhavesh00.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     

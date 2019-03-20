@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>/post/project1group/</loc>
+      <loc>https://bhavesh00.github.io/post/evlproject2/</loc>
+      <lastmod>2019-02-20T13:23:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bhavesh00.github.io/project/evlproject2/</loc>
+      <lastmod>2019-02-20T13:23:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bhavesh00.github.io/post/project1group/</loc>
       <lastmod>2019-02-12T17:23:00-06:00</lastmod>
     </url>
     
@@ -12,7 +28,15 @@
     
     <url>
     
-      <loc>/post/evlproject1/</loc>
+      <loc>https://bhavesh00.github.io/project/evlproject1/</loc>
+      <lastmod>2019-02-20T16:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bhavesh00.github.io/post/evlproject1code/</loc>
       <lastmod>2019-02-11T19:23:00-06:00</lastmod>
     </url>
     
@@ -20,7 +44,7 @@
     
     <url>
     
-      <loc>/post/evlproject1code/</loc>
+      <loc>https://bhavesh00.github.io/post/evlproject1data/</loc>
       <lastmod>2019-02-11T19:23:00-06:00</lastmod>
     </url>
     
@@ -28,7 +52,7 @@
     
     <url>
     
-      <loc>/post/evlproject1data/</loc>
+      <loc>https://bhavesh00.github.io/post/evlproject1findings/</loc>
       <lastmod>2019-02-11T19:23:00-06:00</lastmod>
     </url>
     
@@ -36,15 +60,7 @@
     
     <url>
     
-      <loc>/post/evlproject1findings/</loc>
-      <lastmod>2019-02-11T19:23:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/color_test/</loc>
+      <loc>https://bhavesh00.github.io/post/color_test/</loc>
       <lastmod>2018-01-30T12:54:00-06:00</lastmod>
     </url>
     
@@ -52,7 +68,7 @@
     
     <url>
     
-      <loc>/post/evl/</loc>
+      <loc>https://bhavesh00.github.io/post/evl/</loc>
       <lastmod>2018-01-24T19:23:00-06:00</lastmod>
     </url>
     
@@ -60,7 +76,7 @@
     
     <url>
     
-      <loc>/post/weather/</loc>
+      <loc>https://bhavesh00.github.io/post/weather/</loc>
       <lastmod>2018-01-17T19:23:00-06:00</lastmod>
     </url>
     
@@ -68,7 +84,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://bhavesh00.github.io/post/getting-started/</loc>
       <lastmod>2018-09-28T21:23:00-05:00</lastmod>
     </url>
     
@@ -76,7 +92,7 @@
     
     <url>
     
-      <loc>/project/pa/</loc>
+      <loc>https://bhavesh00.github.io/project/pa/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -84,7 +100,7 @@
     
     <url>
     
-      <loc>/project/crf/</loc>
+      <loc>https://bhavesh00.github.io/project/crf/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -92,7 +108,7 @@
     
     <url>
     
-      <loc>/project/do/</loc>
+      <loc>https://bhavesh00.github.io/project/do/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -100,7 +116,7 @@
     
     <url>
     
-      <loc>/project/maskrcnn/</loc>
+      <loc>https://bhavesh00.github.io/project/maskrcnn/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -108,7 +124,7 @@
     
     <url>
     
-      <loc>/project/mcs/</loc>
+      <loc>https://bhavesh00.github.io/project/mcs/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -116,7 +132,7 @@
     
     <url>
     
-      <loc>/project/st/</loc>
+      <loc>https://bhavesh00.github.io/project/st/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -124,7 +140,7 @@
     
     <url>
     
-      <loc>/project/sm/</loc>
+      <loc>https://bhavesh00.github.io/project/sm/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -132,7 +148,7 @@
     
     <url>
     
-      <loc>/project/sca/</loc>
+      <loc>https://bhavesh00.github.io/project/sca/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -140,7 +156,7 @@
     
     <url>
     
-      <loc>/project/crf_1/</loc>
+      <loc>https://bhavesh00.github.io/project/crf_1/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
     </url>
     
@@ -148,7 +164,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://bhavesh00.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -156,7 +172,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://bhavesh00.github.io/</loc>
       <lastmod>2016-04-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -165,7 +181,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://bhavesh00.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -173,7 +189,7 @@
     
     <url>
     
-      <loc>/tags/cloud/</loc>
+      <loc>https://bhavesh00.github.io/tags/cloud/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +198,7 @@
     
     <url>
     
-      <loc>/tags/devops/</loc>
+      <loc>https://bhavesh00.github.io/tags/devops/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +207,7 @@
     
     <url>
     
-      <loc>/tags/machine-learning/</loc>
+      <loc>https://bhavesh00.github.io/tags/machine-learning/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +216,7 @@
     
     <url>
     
-      <loc>/tags/others/</loc>
+      <loc>https://bhavesh00.github.io/tags/others/</loc>
       <lastmod>2019-02-12T17:23:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -209,7 +225,24 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://bhavesh00.github.io/project/</loc>
+      <lastmod>2019-02-20T13:23:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bhavesh00.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bhavesh00.github.io/tags/</loc>
       <lastmod>2018-09-22T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -218,16 +251,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-09-22T00:00:00-05:00</lastmod>
+      <loc>https://bhavesh00.github.io/tags/visualization/</loc>
+      <lastmod>2019-02-20T13:23:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     

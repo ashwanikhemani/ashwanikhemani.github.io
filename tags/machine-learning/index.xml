@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine-learning on Ashwani Khemani</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://bhavesh00.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine-learning on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bhavesh00.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conditional Random Field for optical character recognition (OCR)</title>
-      <link>/project/crf/</link>
+      <link>https://bhavesh00.github.io/project/crf/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/crf/</guid>
+      <guid>https://bhavesh00.github.io/project/crf/</guid>
       <description>Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  Source Code available here.</description>
     </item>
     
     <item>
       <title>Instance Segmentation using Convolutional Neural Networks</title>
-      <link>/project/maskrcnn/</link>
+      <link>https://bhavesh00.github.io/project/maskrcnn/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/maskrcnn/</guid>
+      <guid>https://bhavesh00.github.io/project/maskrcnn/</guid>
       <description>The Mask R-CNN (Regional Convolutional Neural Network) can be used in instance segmentation, and has been quite sucessful when compared with other architectures for the same task. In this project we look at its performance on two well known datasets, cityscapes and CSAIL Places, and try to see the impact of modifying hyperparameters and using different network architectures in the backbone.
  Summary of the Problem Instance Segmentation is the combination of three other tasks making it very difficult.</description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Twitter Corpus</title>
-      <link>/project/sm/</link>
+      <link>https://bhavesh00.github.io/project/sm/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/sm/</guid>
+      <guid>https://bhavesh00.github.io/project/sm/</guid>
       <description>Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  Source Code available here .</description>
     </item>
     
     <item>
       <title>Structured Output Prediction using Conditional Random Fields</title>
-      <link>/project/crf_1/</link>
+      <link>https://bhavesh00.github.io/project/crf_1/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/project/crf_1/</guid>
+      <guid>https://bhavesh00.github.io/project/crf_1/</guid>
       <description>Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  Source Code available here .</description>
     </item>
     

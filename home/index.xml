@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ashwani Khemani</title>
-    <link>/home/</link>
+    <link>https://bhavesh00.github.io/home/</link>
     <description>Recent content in Homes on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bhavesh00.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://bhavesh00.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://bhavesh00.github.io/home/about/</guid>
       <description>Biography 
 I am a graduate student at the University of Illinois at Chicago pursuing Master of Science in Computer Science. I am a currently Graduate Teaching Assistant in the Computer Science department at UIC teaching students and assisting them with their coursework . It provides me an opportunity to pass on knowledge to people and exchange ideas with them. 
 My research interests include application of machine learning and data analytics in health care and make use of various statistical machine learning and cloud computing techniques to advance health care.</description>
@@ -25,37 +25,37 @@ My research interests include application of machine learning and data analytics
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://bhavesh00.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://bhavesh00.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://bhavesh00.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://bhavesh00.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://bhavesh00.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://bhavesh00.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://bhavesh00.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://bhavesh00.github.io/home/teaching/</guid>
       <description>Teaching Assistant for the following course at University of Illinois at Chicago:
 (AY 2018-19) - CS261: Machine Organization (Spring 2019)
 (AY 2017-18) - CS261: Machine Organization (Fall 2017 , Spring 2018)</description>
@@ -63,28 +63,28 @@ My research interests include application of machine learning and data analytics
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://bhavesh00.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://bhavesh00.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/home/search/</link>
+      <link>https://bhavesh00.github.io/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>/home/search/</guid>
+      <guid>https://bhavesh00.github.io/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://bhavesh00.github.io/home/contact/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://bhavesh00.github.io/home/contact/</guid>
       <description></description>
     </item>
     
