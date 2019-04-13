@@ -11,6 +11,61 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Good Governments Help People Succeed!!</title>
+      <link>https://bhavesh00.github.io/post/good_gov/</link>
+      <pubDate>Sat, 13 Apr 2019 17:00:00 -0500</pubDate>
+      
+      <guid>https://bhavesh00.github.io/post/good_gov/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/big_3.png&#34; alt=&#34;United States HDI vs GDP&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to the visualization : &lt;a href=&#34;http://vallandingham.me/world_gov_challenge/&#34; target=&#34;_blank&#34;&gt;Good Governments Help People Succeed&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The care of human life and happiness, and not their destruction, is the first and only object of good government.&amp;rdquo;
+ - Thomas Jefferson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Purpose of Visualization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;How can we measure the success of a government and what criteria should be used to label a government as &lt;em&gt;&amp;ldquo;good government&amp;rdquo;&lt;/em&gt;   ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gross Domestic Product (GDP)&lt;/strong&gt; is commonly used as a metric to compare two countries and their government.
+Gross Domestic Product is the total value of goods and services provided by a country during one year.
+The more the output and GDP of a country, it is implied that better is their government and that country is ranked higher in the goverment ranking.&lt;/p&gt;
+
+&lt;p&gt;But, metrics like GDP which rely on economic progress of a country &lt;strong&gt;do not explain&lt;/strong&gt; how is the goverment good or bad for the &lt;strong&gt;people&lt;/strong&gt; living under the rule of that government. We can not conclude that that people of a country with a high GDP are living a high quality of life.&lt;/p&gt;
+
+&lt;p&gt;To learn more about the quality of government there is need to look at other factors like social well being and the impact of government on individual development.&lt;/p&gt;
+
+&lt;p&gt;This visualization helps in learning about the various measures which make a &lt;em&gt;good government&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;General Dataset information and Collection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The dataset was provided as part of the dataviz &lt;a href=&#34;https://informationisbeautiful.net/2018/announcing-the-world-data-visualization-prize-a-40k-dataviz-challenge/&#34; target=&#34;_blank&#34;&gt;challenge&lt;/a&gt; organized in partnership with the &lt;a href=&#34;https://www.worldgovernmentsummit.org/&#34; target=&#34;_blank&#34;&gt;World Government Summit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The data set can be accessed from the this link &lt;a href=&#34;https://docs.google.com/spreadsheets/d/11LhOlwsloUuA495r-04IDwciMqNrLwWGpveqpF61WXU/edit#gid=0&#34; target=&#34;_blank&#34;&gt;What Makes A “Good” Government?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some features of the dataset:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The dataset has various measures to access the quality of various governments of the world.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The dataset contains information for 200 countries for the various measures.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Some of the attributes present in the dataset are country name, population, GDP, GINI, HDI, health and education expenditure, economic freedom, etc.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Target audience and users for the visualization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The dataset can be used by any person around the world to learn more about the performance of their government.&lt;/li&gt;
+&lt;li&gt;The data would be helpful for the leaders and people in power to get feedback about their performance and know the areas of improvement.&lt;/li&gt;
+&lt;li&gt;It can be used by the various country leaders in the world to make decisions and policies for the development of their country and future of their people.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Every Breath You Take !!</title>
       <link>https://bhavesh00.github.io/post/evlproject2/</link>
       <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
@@ -377,62 +432,6 @@ the workflow to obtain information about relationships among components of these
 &lt;/ul&gt;
 
 &lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/DevOpsOrchester&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instance Segmentation using Convolutional Neural Networks</title>
-      <link>https://bhavesh00.github.io/project/maskrcnn/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://bhavesh00.github.io/project/maskrcnn/</guid>
-      <description>&lt;p&gt;The Mask R-CNN (Regional Convolutional Neural Network) can be used in instance
-segmentation, and has been quite sucessful when compared with other architectures
-for the same task. In this project we look at its performance on two
-well known datasets, cityscapes and CSAIL Places, and try to see the impact of
-modifying hyperparameters and using different network architectures in the backbone.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Summary of the Problem
-Instance Segmentation is the combination of three other tasks making it very difficult. Those three
-tasks are Image Classification, Object Detection, and Semantic Segmentation. See Figure 1 for an
-overview of the task.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instance Segmentation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Image Classification, being the most studied of the three, is a task where you are given an image
-and the goal is to classify it. Examples of such studies are those done on the MNIST dataset [1].
-In MNIST, the task is to classify handwritten digits given only an image of the digit. Some of the
-most successful approaches involve CNN architectures, like VGG, GoogleLeNet, ResNet, and many
-others.
-Object Detection has the same domain, but the goal is to find all instances of an object and find the
-smallest bounding box around the object. One way to structure this as a machine learning task is
-to formulate it as a Regression problem, where the bounding box is defined by a set of coordinates.
-This is done in our Mask R-CNN implementation and its immediate predecessor, Faster R-CNN [2].
-The goal of Semantic Segmentation is to classify each pixel, effectively segmenting an image into its
-semantic components. This was a difficult task because there was no obvious way to generate predictions
-for each pixel, without feeding the whole image multiple times through a traditional CNN
-classification network, and this would make the problem intractable. One well known solution to
-this is to use a Fully Convolutional Network (FCN), which would have an Encoder/Decoder structure
-by first using Convolution Layers and Pooling&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Cityscapes&lt;/strong&gt;
-Cityscapes has data from street scenes, so an application of a network trained on this dataset is
-autonomous vehicles. The dataset has approximately 5,000 examples and 30 classes with fine grain
-annotations. We used about 3,500 for training and 500 for validation.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;CSAIL Places&lt;/strong&gt;
-This dataset is more general and has a wide variety of scenes. It has approximately 20K examples
-(2K validation), with annotations, and 100 classes. The CSAIL places dataset will give us an opportunity
-to compare our results with work published that tested with more popular datasets like
-MSCOCO [4].&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mask R-CNN Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/arch_mask.png&#34; alt=&#34;Mask R-CNN Architecture&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
