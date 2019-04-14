@@ -58,10 +58,87 @@ The more the output and GDP of a country, it is implied that better is their gov
 &lt;p&gt;&lt;strong&gt;Target audience and users for the visualization&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The dataset can be used by any person around the world to learn more about the performance of their government.&lt;/li&gt;
-&lt;li&gt;The data would be helpful for the leaders and people in power to get feedback about their performance and know the areas of improvement.&lt;/li&gt;
-&lt;li&gt;It can be used by the various country leaders in the world to make decisions and policies for the development of their country and future of their people.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The dataset can be used by any person around the world to learn more about the performance of their government.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The data would be helpful for the leaders and people in power to get feedback about their performance and know the areas of improvement.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It can be used by the various country leaders in the world to make decisions and policies for the development of their country and future of their people.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Questions people are interested in&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The original goal of measuring the success of a government requires answers to many questions.&lt;/p&gt;
+
+&lt;p&gt;Based on the various measures provided in the dataset, the following questions would be helpful in learning more about the government of a country.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What measures other than GDP can be used to measure a government&amp;rsquo;s performance?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How can we learn about what impact the government is having on the people&amp;rsquo;s lives of that country?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How do governments compare in any particular region of the world (Africas,Americas,Asia,Europe and Oceania)?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Which countries are ranked higher based on the individual measures like GDP,HDI,Economic Freedom, Gini index?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Is there any correlation between various metrics like HDI,Economic Freedom score,GINI index and GDP?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How do measures like HDI,GINI,Economic Freedom score changes relative to GDP over a period of time for the various countries?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How the different countries differ on change of HDI,GINI and Economic Freedom score with respect to GDP and each other of them?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Using the visualization tool to answer the user questions !!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The visualization makes use of three more metrics other than GDP to learn more about impact of government on individuals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Human development index(HDI)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a statistic composite index of life expectancy, education, and per capita income indicators. These indicators are used to rank countries into four tiers of human development. Countries with high lifespan, education level and GNI (PPP) per capita are ranked higher as per the index.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic Freedom Score&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is used to measure the degree of economic freedom in a country on a scale from 0 to 100.
+Economic Freedom Score is based on four complex sets of indicators: Rule of Law, Limited Government, Regulatory Efficiency and Open Markets.
+It tells about how any government promotes the freedom to work, produce, consume, and invest in any way for any individual in that country.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gini Index&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This metric is used to learn about the status of economic inequality, measure income distribution or wealth distribution among a population.
+Whether the distribution of individual or family income is equal or not can be derived using this measure. Lower value of GINI index means  distribution of wealth is more equal in that country as compared to countries having a high GINI index.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The visualization tool helps in answering the above questions through it various features. Below are a few visualizations which were gathered with the help of the tool.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below shows how Human Development Index and Economic Freedom Score change with respect to GDP per capita for a country.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_EF_GDP.png&#34; alt=&#34;HDI vs GDP | EFS vs GDP&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GDP_comp.png&#34; alt=&#34;EFS vs GDP&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how the countries in various regions perform based on change of HDI with respect of GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/regions_cmp.png&#34; alt=&#34;regions comparison&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_comp.png&#34; alt=&#34;HDI vs GDP comparison&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_years.png&#34; alt=&#34;HDI vs GDP over years&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how GINI Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/Gini_GDP_years.png&#34; alt=&#34;GINI vs GDP over years&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GINI index for top performing countries based on Economic Freedom.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GINI_comp.png&#34; alt=&#34;EFS vs GINI comparsion&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how GINI index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/Gini_GDP_comp_global.png&#34; alt=&#34;GINI vs GDP comparsion global&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
