@@ -89,7 +89,7 @@ The more the output and GDP of a country, it is implied that better is their gov
 
 &lt;p&gt;&lt;strong&gt;Using the visualization tool to answer the user questions !!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The visualization makes use of three more metrics other than GDP to learn more about impact of government on individuals.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://vallandingham.me/world_gov_challenge/&#34; target=&#34;_blank&#34;&gt;visualization&lt;/a&gt; makes use of three more metrics other than GDP to learn more about impact of government on individuals.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Human development index(HDI)&lt;/strong&gt;&lt;/p&gt;
 
@@ -103,26 +103,20 @@ It tells about how any government promotes the freedom to work, produce, consume
 
 &lt;p&gt;&lt;strong&gt;Gini Index&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This metric is used to learn about the status of economic inequality, measure income distribution or wealth distribution among a population.
+&lt;p&gt;This metric is used to learn about the status of economic inequality, measure income distribution or wealth distribution amongst a population.
 Whether the distribution of individual or family income is equal or not can be derived using this measure. Lower value of GINI index means  distribution of wealth is more equal in that country as compared to countries having a high GINI index.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The visualization tool helps in answering the above questions through it various features. Below are a few visualizations which were gathered with the help of the tool.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The visualization tool helps in answering the above questions through it various features. The main features of the tool and corresponding visualizations for them gathered with the help of the tool are described below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are three main types of visualizations present in the tool.&lt;/p&gt;
+
+&lt;p&gt;1) &lt;strong&gt;Scatterplots&lt;/strong&gt; : These can be used to learn about correlation between various measures.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below shows how Human Development Index and Economic Freedom Score change with respect to GDP per capita for a country.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_EF_GDP.png&#34; alt=&#34;HDI vs GDP | EFS vs GDP&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GDP_comp.png&#34; alt=&#34;EFS vs GDP&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The visualization below  shows how the countries in various regions perform based on change of HDI with respect of GDP.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/regions_cmp.png&#34; alt=&#34;regions comparison&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_comp.png&#34; alt=&#34;HDI vs GDP comparison&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2) &lt;strong&gt;Collection of line charts&lt;/strong&gt; : These can be used to see the progress over time for various measures.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
 
@@ -131,6 +125,20 @@ Whether the distribution of individual or family income is equal or not can be d
 &lt;p&gt;&lt;em&gt;The visualization below  shows how GINI Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/Gini_GDP_years.png&#34; alt=&#34;GINI vs GDP over years&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3) &lt;strong&gt;Linecharts for comparsion&lt;/strong&gt; : These can be used to compare various countries over different measures. This can be done at country level or global level to scale the measures accordingly. The results can also be sorted on various measures to get more insights.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GDP_comp.png&#34; alt=&#34;EFS vs GDP&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how the countries in various regions perform based on change of HDI with respect of GDP. One country from each region was selected for this visualization.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/regions_cmp.png&#34; alt=&#34;regions comparison&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_comp.png&#34; alt=&#34;HDI vs GDP comparison&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GINI index for top performing countries based on Economic Freedom.&lt;/em&gt;&lt;/p&gt;
 
@@ -175,7 +183,7 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;The color palette used in the legend for the years sometimes makes it difficult to differentiate between two consecutive years.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;The comparison line charts connect the various points of different measure over the years. As, the line progresses over time, it makes use of the time measure(legend) along with the x and y measures, it might be sometime difficult for user to understand the flow of the charts.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The comparison line charts connect the various points of different measure over the years. As, the line progresses over time, it makes use of the time measure(legend) along with the x and y measures, it might be sometime difficult for user to understand the flow of the charts using them.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
