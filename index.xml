@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Chicago Real-Time AQ !!</title>
+      <link>https://bhavesh00.github.io/project/evlproject3/</link>
+      <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
+      
+      <guid>https://bhavesh00.github.io/project/evlproject3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlproject3.png&#34; alt=&#34;(Chicago Real-time Air Quality)&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the third project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in Chicago real-time air quality and
+weather data visualizations in an interactive web application created using the R Shiny library.&lt;/p&gt;
+
+&lt;p&gt;You can access the application from &lt;a href=&#34;http://shiny.evl.uic.edu:3838/p3g4/Chicago-RealTime-AQ&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;You can learn more about the application &lt;a href=&#34;https://mirkomantovani.com/projects/ChicagoRealTimeAQ.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The code for the application is available on &lt;a href=&#34;https://github.com/mirkomantovani/Chicago-RealTime-AQ&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;An short video demonstration of the application is available on &lt;a href=&#34;https://www.youtube.com/watch?v=XrqJ1vvaasA&#34; target=&#34;_blank&#34;&gt;youtube&lt;/a&gt; .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Good Governments Help People Succeed!!</title>
       <link>https://bhavesh00.github.io/post/good_gov/</link>
       <pubDate>Sat, 13 Apr 2019 17:00:00 -0500</pubDate>
@@ -543,22 +564,6 @@ leveraging its parallel primitives and testing the scalability on cluster&lt;/li
 &lt;/ul&gt;
 
 &lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/ConvexOptimization&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
-      <link>https://bhavesh00.github.io/project/do/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://bhavesh00.github.io/project/do/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Created a DevOps application workflow for automatically building and analyzing software applications statically as part of
-the workflow to obtain information about relationships among components of these applications.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Java, Jenkins, Gitlab, GitHub&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source Code available &lt;a href=&#34;https://github.com/ashwanikhemani/DevOpsOrchester&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
