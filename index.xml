@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashwani Khemani on Ashwani Khemani</title>
-    <link>https://bhavesh00.github.io/</link>
+    <link>https://ashwanikhemani.github.io/</link>
     <description>Recent content in Ashwani Khemani on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>That aha moment!!</title>
-      <link>https://bhavesh00.github.io/post/aha_moment/</link>
+      <link>https://ashwanikhemani.github.io/post/aha_moment/</link>
       <pubDate>Tue, 07 May 2019 23:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/aha_moment/</guid>
+      <guid>https://ashwanikhemani.github.io/post/aha_moment/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s has been a long time since I last posted an article not related to a coursework at UIC. But, I would like to change this trend and would try to post about my learnings and experiences more often from now on.&lt;/p&gt;
 
 &lt;p&gt;There are few moments in life where a person discovers something and things start making some sort of sense after that.It is has been two years since I joined graduate school at University of Illinois at Chicago to pursue my Masters.
@@ -38,11 +38,11 @@ The advance software engineering was also an interesting course but my interest 
     
     <item>
       <title>Chicago Real-Time AQ !!</title>
-      <link>https://bhavesh00.github.io/project/evlproject3/</link>
+      <link>https://ashwanikhemani.github.io/project/evlproject3/</link>
       <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/project/evlproject3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlproject3.png&#34; alt=&#34;(Chicago Real-time Air Quality)&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/project/evlproject3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlproject3.png&#34; alt=&#34;(Chicago Real-time Air Quality)&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the third project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in Chicago real-time air quality and
 weather data visualizations in an interactive web application created using the R Shiny library.&lt;/p&gt;
@@ -59,11 +59,11 @@ weather data visualizations in an interactive web application created using the 
     
     <item>
       <title>Good Governments Help People Succeed!!</title>
-      <link>https://bhavesh00.github.io/post/good_gov/</link>
+      <link>https://ashwanikhemani.github.io/post/good_gov/</link>
       <pubDate>Sat, 13 Apr 2019 17:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/good_gov/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/top_3.png&#34; alt=&#34;United States HDI vs GDP&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/post/good_gov/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/top_3.png&#34; alt=&#34;United States HDI vs GDP&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Link to the visualization : &lt;a href=&#34;http://vallandingham.me/world_gov_challenge/&#34; target=&#34;_blank&#34;&gt;Good Governments Help People Succeed&lt;/a&gt;&lt;/p&gt;
 
@@ -161,39 +161,39 @@ Whether the distribution of individual or family income is equal or not can be d
 
 &lt;p&gt;&lt;em&gt;The visualization below shows how Human Development Index and Economic Freedom Score change with respect to GDP per capita for a country.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_EF_GDP.png&#34; alt=&#34;HDI vs GDP | EFS vs GDP&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/HDI_EF_GDP.png&#34; alt=&#34;HDI vs GDP | EFS vs GDP&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2) &lt;strong&gt;Collection of line charts&lt;/strong&gt; : These can be used to see the progress over time for various measures.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_years.png&#34; alt=&#34;HDI vs GDP over years&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/HDI_GDP_years.png&#34; alt=&#34;HDI vs GDP over years&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how GINI Index changes with respect to GDP per capita for different countries over the years.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/Gini_GDP_years.png&#34; alt=&#34;GINI vs GDP over years&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/Gini_GDP_years.png&#34; alt=&#34;GINI vs GDP over years&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;3) &lt;strong&gt;Linecharts for comparsion&lt;/strong&gt; : These can be used to compare various countries over different measures. This can be done at country level or global level to scale the measures accordingly. The results can also be sorted on various measures to get more insights.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GDP_comp.png&#34; alt=&#34;EFS vs GDP&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/EF_GDP_comp.png&#34; alt=&#34;EFS vs GDP&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how the countries in various regions perform based on change of HDI with respect of GDP per capita. One country from each region was selected for this visualization. The scale used here for comparison is global scale for measures.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/regions_cmp.png&#34; alt=&#34;regions comparison&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/regions_cmp.png&#34; alt=&#34;regions comparison&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Human Development Index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/HDI_GDP_comp.png&#34; alt=&#34;HDI vs GDP comparison&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/HDI_GDP_comp.png&#34; alt=&#34;HDI vs GDP comparison&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how Economic Freedom Score changes with respect to GINI index for top performing countries based on Economic Freedom.The scale used here for comparison is country-level scale.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/EF_GINI_comp.png&#34; alt=&#34;EFS vs GINI comparison&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/EF_GINI_comp.png&#34; alt=&#34;EFS vs GINI comparison&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The visualization below  shows how GINI index changes with respect to GDP per capita for top performing countries based on GDP.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/Gini_GDP_comp_global.png&#34; alt=&#34;GINI vs GDP comparison global&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/Gini_GDP_comp_global.png&#34; alt=&#34;GINI vs GDP comparison global&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Good aspects of the visualization&lt;/strong&gt;&lt;/p&gt;
 
@@ -241,11 +241,11 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Every Breath You Take !!</title>
-      <link>https://bhavesh00.github.io/post/evlproject2/</link>
+      <link>https://ashwanikhemani.github.io/post/evlproject2/</link>
       <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/evlproject2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/post/evlproject2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.&lt;/p&gt;
 
@@ -261,11 +261,11 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Every Breath You Take !!</title>
-      <link>https://bhavesh00.github.io/project/evlproject2/</link>
+      <link>https://ashwanikhemani.github.io/project/evlproject2/</link>
       <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/project/evlproject2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/project/evlproject2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.&lt;/p&gt;
 
@@ -281,11 +281,11 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Just Breathe Group - Interesting Things !!</title>
-      <link>https://bhavesh00.github.io/post/project1group/</link>
+      <link>https://ashwanikhemani.github.io/post/project1group/</link>
       <pubDate>Tue, 12 Feb 2019 17:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/project1group/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/newPhoto.jpg&#34; alt=&#34;(Group Image)&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/post/project1group/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/newPhoto.jpg&#34; alt=&#34;(Group Image)&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Group:&lt;/p&gt;
 
@@ -322,10 +322,10 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Just Breathe !!</title>
-      <link>https://bhavesh00.github.io/project/evlproject1/</link>
+      <link>https://ashwanikhemani.github.io/project/evlproject1/</link>
       <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/project/evlproject1/</guid>
+      <guid>https://ashwanikhemani.github.io/project/evlproject1/</guid>
       <description>&lt;p&gt;This page contains the link to the visualization solution optimized for the EVL classroom wall and a description of how to use the application and the things that can be done with it.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;Project Link&lt;/a&gt;&lt;/p&gt;
@@ -389,16 +389,16 @@ different tabs provided in the panels below.&lt;/p&gt;
 
 &lt;p&gt;Here is a snapshot from the application .&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evlProject1.png&#34; alt=&#34;(Just Breathe)&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlProject1.png&#34; alt=&#34;(Just Breathe)&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Just Breathe - Code !!</title>
-      <link>https://bhavesh00.github.io/post/evlproject1code/</link>
+      <link>https://ashwanikhemani.github.io/post/evlproject1code/</link>
       <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/evlproject1code/</guid>
+      <guid>https://ashwanikhemani.github.io/post/evlproject1code/</guid>
       <description>&lt;p&gt;The code for the project can be found &lt;a href=&#34;https://github.com/ashwanikhemani/JustBreathe&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
 
 &lt;p&gt;The data needed for the project is available in the root folder and the map data is available in the map folder of the project.&lt;/p&gt;
@@ -448,10 +448,10 @@ above packages.&lt;/p&gt;
     
     <item>
       <title>Just Breathe - Data!!</title>
-      <link>https://bhavesh00.github.io/post/evlproject1data/</link>
+      <link>https://ashwanikhemani.github.io/post/evlproject1data/</link>
       <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/evlproject1data/</guid>
+      <guid>https://ashwanikhemani.github.io/post/evlproject1data/</guid>
       <description>&lt;p&gt;The page contains information about the data used in the Just Breathe project. The data was downloaded from the EPA website.&lt;/p&gt;
 
 &lt;p&gt;The link to download the data is &lt;a href=&#34;https://aqs.epa.gov/aqsweb/airdata/download_files.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -464,10 +464,10 @@ above packages.&lt;/p&gt;
     
     <item>
       <title>Just Breathe --Findings !!</title>
-      <link>https://bhavesh00.github.io/post/evlproject1findings/</link>
+      <link>https://ashwanikhemani.github.io/post/evlproject1findings/</link>
       <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/evlproject1findings/</guid>
+      <guid>https://ashwanikhemani.github.io/post/evlproject1findings/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;Project Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Interesting things which were found about the data using the application.&lt;/p&gt;
@@ -494,21 +494,21 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>The X-Rite Color Challenge and Hue Test !!</title>
-      <link>https://bhavesh00.github.io/post/color_test/</link>
+      <link>https://ashwanikhemani.github.io/post/color_test/</link>
       <pubDate>Wed, 30 Jan 2019 12:54:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/color_test/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/color_test.png&#34; alt=&#34;Test Results&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/post/color_test/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/color_test.png&#34; alt=&#34;Test Results&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>EVL Weather Application !!</title>
-      <link>https://bhavesh00.github.io/post/evl/</link>
+      <link>https://ashwanikhemani.github.io/post/evl/</link>
       <pubDate>Thu, 24 Jan 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/evl/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/evl_2.PNG&#34; alt=&#34;EVL Weather Application&#34; /&gt;&lt;/p&gt;
+      <guid>https://ashwanikhemani.github.io/post/evl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evl_2.PNG&#34; alt=&#34;EVL Weather Application&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the link to the website deployed using shinny apps account&lt;/p&gt;
 
@@ -518,26 +518,26 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Weather Updates !!</title>
-      <link>https://bhavesh00.github.io/post/weather/</link>
+      <link>https://ashwanikhemani.github.io/post/weather/</link>
       <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/weather/</guid>
+      <guid>https://ashwanikhemani.github.io/post/weather/</guid>
       <description>&lt;p&gt;I get my weather updates from the &lt;a href=&#34;https://weather.com/&#34; target=&#34;_blank&#34;&gt;weather channel&lt;/a&gt; !!!
 I usually visit weather channel because it provides the most accurate and up to date weather updates.
 It shows hourly, daily and weekly weather forecast in an organized manner.
 The website and phone application are easy to navigate and to use.
 I highly recommend the application to everyone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bhavesh00.github.io/img/weather_channel.png&#34; alt=&#34;Weather image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/weather_channel.png&#34; alt=&#34;Weather image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Time for a new beginning !!</title>
-      <link>https://bhavesh00.github.io/post/getting-started/</link>
+      <link>https://ashwanikhemani.github.io/post/getting-started/</link>
       <pubDate>Fri, 28 Sep 2018 20:23:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/post/getting-started/</guid>
+      <guid>https://ashwanikhemani.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;A few days ago I read the following tweet somewhere on the internet !!&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;When you’ve written the same code 3 times, write a function&lt;br&gt;&lt;br&gt;When you’ve given the same in-person advice 3 times, write a blog post&lt;/p&gt;&amp;mdash; David Robinson (@drob) &lt;a href=&#34;https://twitter.com/drob/status/928447584712253440?ref_src=twsrc%5Etfw&#34;&gt;November 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
@@ -562,10 +562,10 @@ I love to read about a lot of varied topics and yes anything related to the comp
     
     <item>
       <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
-      <link>https://bhavesh00.github.io/project/pa/</link>
+      <link>https://ashwanikhemani.github.io/project/pa/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/project/pa/</guid>
+      <guid>https://ashwanikhemani.github.io/project/pa/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops
 pipelines.&lt;/p&gt;&lt;/li&gt;

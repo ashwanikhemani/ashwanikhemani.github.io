@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ashwani Khemani</title>
-    <link>https://bhavesh00.github.io/tags/</link>
+    <link>https://ashwanikhemani.github.io/tags/</link>
     <description>Recent content in Tags on Ashwani Khemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://bhavesh00.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ashwanikhemani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud</title>
-      <link>https://bhavesh00.github.io/tags/cloud/</link>
+      <link>https://ashwanikhemani.github.io/tags/cloud/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/tags/cloud/</guid>
+      <guid>https://ashwanikhemani.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://bhavesh00.github.io/tags/devops/</link>
+      <link>https://ashwanikhemani.github.io/tags/devops/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/tags/devops/</guid>
+      <guid>https://ashwanikhemani.github.io/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine-learning</title>
-      <link>https://bhavesh00.github.io/tags/machine-learning/</link>
+      <link>https://ashwanikhemani.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/tags/machine-learning/</guid>
+      <guid>https://ashwanikhemani.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>https://bhavesh00.github.io/tags/others/</link>
+      <link>https://ashwanikhemani.github.io/tags/others/</link>
       <pubDate>Tue, 07 May 2019 23:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/tags/others/</guid>
+      <guid>https://ashwanikhemani.github.io/tags/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>https://bhavesh00.github.io/tags/visualization/</link>
+      <link>https://ashwanikhemani.github.io/tags/visualization/</link>
       <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
       
-      <guid>https://bhavesh00.github.io/tags/visualization/</guid>
+      <guid>https://ashwanikhemani.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
