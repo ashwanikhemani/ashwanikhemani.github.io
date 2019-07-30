@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ashwanikhemani.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,17 @@
     <item>
       <title></title>
       <link>https://ashwanikhemani.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/about/</guid>
       <description>Biography 
-I am a graduate student at the University of Illinois at Chicago pursuing Master of Science in Computer Science. I am a currently Graduate Teaching Assistant in the Computer Science department at UIC teaching students and assisting them with their coursework . It provides me an opportunity to pass on knowledge to people and exchange ideas with them. 
-My research interests include application of machine learning and data analytics in health care and make use of various statistical machine learning and cloud computing techniques to advance health care.</description>
+I am very passionate about making use of technology to create something that makes a significant impact on the quality of people’s lives all around the world. It has become an integral part of my life and always pushes me to learn something new every day. I recently graduated from the University of Illinois at Chicago with a degree of Master of Science in Computer Science. I was a Graduate Teaching Assistant at UIC teaching students and assisting them with their coursework.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://ashwanikhemani.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/skills/</guid>
       <description></description>
@@ -35,7 +34,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Recent Posts</title>
       <link>https://ashwanikhemani.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/posts/</guid>
       <description></description>
@@ -44,7 +43,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Projects</title>
       <link>https://ashwanikhemani.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/projects/</guid>
       <description></description>
@@ -53,7 +52,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Teaching</title>
       <link>https://ashwanikhemani.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/teaching/</guid>
       <description>Teaching Assistant for the following course at University of Illinois at Chicago:
@@ -64,7 +63,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Tags</title>
       <link>https://ashwanikhemani.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/tags/</guid>
       <description></description>
@@ -73,7 +72,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Search</title>
       <link>https://ashwanikhemani.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/search/</guid>
       <description></description>
@@ -82,7 +81,7 @@ My research interests include application of machine learning and data analytics
     <item>
       <title>Contact</title>
       <link>https://ashwanikhemani.github.io/home/contact/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/home/contact/</guid>
       <description></description>

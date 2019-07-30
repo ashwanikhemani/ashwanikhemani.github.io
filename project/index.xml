@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 04 May 2019 20:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 20:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ashwanikhemani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Chicago Real-Time AQ !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject3/</link>
-      <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
+      <pubDate>Sat, 04 May 2019 20:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject3/</guid>
       <description>This is the third project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in Chicago real-time air quality and weather data visualizations in an interactive web application created using the R Shiny library.
@@ -28,7 +28,7 @@ An short video demonstration of the application is available on youtube .</descr
     <item>
       <title>Every Breath You Take !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject2/</link>
-      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject2/</guid>
       <description>This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.
@@ -39,7 +39,7 @@ You can learn more about the application here.</description>
     <item>
       <title>Just Breathe !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject1/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject1/</guid>
       <description>This page contains the link to the visualization solution optimized for the EVL classroom wall and a description of how to use the application and the things that can be done with it.
@@ -52,7 +52,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
       <link>https://ashwanikhemani.github.io/project/pa/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/pa/</guid>
       <description>Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
@@ -63,7 +63,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Conditional Random Field for optical character recognition (OCR)</title>
       <link>https://ashwanikhemani.github.io/project/crf/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/crf/</guid>
       <description>Designed and developed parallel optimization algorithm based on the LBFGS solver provided by PETSc, leveraging its parallel primitives and testing the scalability on cluster Implemented stochastic gradient solvers (SGD and ADAM), and tested their efficiency in comparison with LBFGS  Source Code available here.</description>
@@ -72,7 +72,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
       <link>https://ashwanikhemani.github.io/project/do/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/do/</guid>
       <description>Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  Source Code available here .</description>
@@ -81,7 +81,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Instance Segmentation using Convolutional Neural Networks</title>
       <link>https://ashwanikhemani.github.io/project/maskrcnn/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/maskrcnn/</guid>
       <description>The Mask R-CNN (Regional Convolutional Neural Network) can be used in instance segmentation, and has been quite sucessful when compared with other architectures for the same task. In this project we look at its performance on two well known datasets, cityscapes and CSAIL Places, and try to see the impact of modifying hyperparameters and using different network architectures in the backbone.
@@ -91,7 +91,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Monte-Carlo simulation with OctaPi cloud</title>
       <link>https://ashwanikhemani.github.io/project/mcs/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/mcs/</guid>
       <description>Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  Source Code available here .</description>
@@ -100,7 +100,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Parallelization of software testing using Hadoop Map-Reduce model and OctaPi Cluster</title>
       <link>https://ashwanikhemani.github.io/project/st/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/st/</guid>
       <description>Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  Source Code available here .</description>
@@ -109,7 +109,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Sentiment Analysis of Twitter Corpus</title>
       <link>https://ashwanikhemani.github.io/project/sm/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/sm/</guid>
       <description>Conducted comparative study of Machine Learning and Deep Learning models for Sentiment Analysis Designed deep learning models to achieve state of the art performance on complex task such as sentiment analysis on twitter dataset  Source Code available here .</description>
@@ -118,7 +118,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
       <link>https://ashwanikhemani.github.io/project/sca/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/sca/</guid>
       <description>Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  Source Code available here.</description>
@@ -127,7 +127,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Structured Output Prediction using Conditional Random Fields</title>
       <link>https://ashwanikhemani.github.io/project/crf_1/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/crf_1/</guid>
       <description>Developed a conditional random field model for Optical Character Recognition (OCR), with emphasis on inference and performance test Performed benchmarking by comparing CRF with multi-class linear SVM  Source Code available here .</description>

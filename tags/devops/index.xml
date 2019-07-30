@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ashwanikhemani.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
       <link>https://ashwanikhemani.github.io/project/pa/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/pa/</guid>
       <description>Investigated many Devops pipeline programs and obtained statistical data that describe content and patterns in Devops pipelines.
@@ -26,7 +26,7 @@
     <item>
       <title>DevOps Orchestration to simulate end to end DevOps workflow at an enterprise level</title>
       <link>https://ashwanikhemani.github.io/project/do/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/do/</guid>
       <description>Created a DevOps application workflow for automatically building and analyzing software applications statically as part of the workflow to obtain information about relationships among components of these applications. Java, Jenkins, Gitlab, GitHub  Source Code available here .</description>
@@ -35,7 +35,7 @@
     <item>
       <title>Static Code Analyzer to find most common bugs in Open Source Projects</title>
       <link>https://ashwanikhemani.github.io/project/sca/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/sca/</guid>
       <description>Obtained information about program entities that were modified because of fixes to specific bugs/issues and found useful pattern amongst them using static code analysis tool like Understand Python, GitHub, Understand  Source Code available here.</description>

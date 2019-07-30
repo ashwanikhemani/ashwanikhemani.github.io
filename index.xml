@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>That aha moment!!</title>
       <link>https://ashwanikhemani.github.io/post/aha_moment/</link>
-      <pubDate>Tue, 07 May 2019 23:00:00 -0500</pubDate>
+      <pubDate>Tue, 07 May 2019 23:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/aha_moment/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s has been a long time since I last posted an article not related to a coursework at UIC. But, I would like to change this trend and would try to post about my learnings and experiences more often from now on.&lt;/p&gt;
@@ -39,7 +39,7 @@ The advance software engineering was also an interesting course but my interest 
     <item>
       <title>Chicago Real-Time AQ !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject3/</link>
-      <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
+      <pubDate>Sat, 04 May 2019 20:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlproject3.png&#34; alt=&#34;(Chicago Real-time Air Quality)&#34; /&gt;&lt;/p&gt;
@@ -60,7 +60,7 @@ weather data visualizations in an interactive web application created using the 
     <item>
       <title>Good Governments Help People Succeed!!</title>
       <link>https://ashwanikhemani.github.io/post/good_gov/</link>
-      <pubDate>Sat, 13 Apr 2019 17:00:00 -0500</pubDate>
+      <pubDate>Sat, 13 Apr 2019 17:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/good_gov/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/top_3.png&#34; alt=&#34;United States HDI vs GDP&#34; /&gt;&lt;/p&gt;
@@ -242,7 +242,7 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>Every Breath You Take !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject2/</link>
-      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
@@ -262,7 +262,7 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>Every Breath You Take !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject2/</link>
-      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evlProject2.png&#34; alt=&#34;(Every Breathe You Take)&#34; /&gt;&lt;/p&gt;
@@ -282,7 +282,7 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>Just Breathe Group - Interesting Things !!</title>
       <link>https://ashwanikhemani.github.io/post/project1group/</link>
-      <pubDate>Tue, 12 Feb 2019 17:00:00 -0600</pubDate>
+      <pubDate>Tue, 12 Feb 2019 17:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/project1group/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/newPhoto.jpg&#34; alt=&#34;(Group Image)&#34; /&gt;&lt;/p&gt;
@@ -323,7 +323,7 @@ just highlighting one of them.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>Just Breathe !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject1/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject1/</guid>
       <description>&lt;p&gt;This page contains the link to the visualization solution optimized for the EVL classroom wall and a description of how to use the application and the things that can be done with it.&lt;/p&gt;
@@ -396,7 +396,7 @@ different tabs provided in the panels below.&lt;/p&gt;
     <item>
       <title>Just Breathe - Code !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1code/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1code/</guid>
       <description>&lt;p&gt;The code for the project can be found &lt;a href=&#34;https://github.com/ashwanikhemani/JustBreathe&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; .&lt;/p&gt;
@@ -449,7 +449,7 @@ above packages.&lt;/p&gt;
     <item>
       <title>Just Breathe - Data!!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1data/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1data/</guid>
       <description>&lt;p&gt;The page contains information about the data used in the Just Breathe project. The data was downloaded from the EPA website.&lt;/p&gt;
@@ -465,7 +465,7 @@ above packages.&lt;/p&gt;
     <item>
       <title>Just Breathe --Findings !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1findings/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1findings/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://askheman.shinyapps.io/project1/&#34; target=&#34;_blank&#34;&gt;Project Link&lt;/a&gt;&lt;/p&gt;
@@ -495,7 +495,7 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>The X-Rite Color Challenge and Hue Test !!</title>
       <link>https://ashwanikhemani.github.io/post/color_test/</link>
-      <pubDate>Wed, 30 Jan 2019 12:54:00 -0600</pubDate>
+      <pubDate>Wed, 30 Jan 2019 12:54:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/color_test/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/color_test.png&#34; alt=&#34;Test Results&#34; /&gt;&lt;/p&gt;
@@ -505,7 +505,7 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>EVL Weather Application !!</title>
       <link>https://ashwanikhemani.github.io/post/evl/</link>
-      <pubDate>Thu, 24 Jan 2019 19:00:00 -0600</pubDate>
+      <pubDate>Thu, 24 Jan 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evl/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ashwanikhemani.github.io/img/evl_2.PNG&#34; alt=&#34;EVL Weather Application&#34; /&gt;&lt;/p&gt;
@@ -519,7 +519,7 @@ and industry are prone to bad air quality.&lt;/p&gt;&lt;/li&gt;
     <item>
       <title>Weather Updates !!</title>
       <link>https://ashwanikhemani.github.io/post/weather/</link>
-      <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Jan 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/weather/</guid>
       <description>&lt;p&gt;I get my weather updates from the &lt;a href=&#34;https://weather.com/&#34; target=&#34;_blank&#34;&gt;weather channel&lt;/a&gt; !!!
@@ -535,7 +535,7 @@ I highly recommend the application to everyone.&lt;/p&gt;
     <item>
       <title>Time for a new beginning !!</title>
       <link>https://ashwanikhemani.github.io/post/getting-started/</link>
-      <pubDate>Fri, 28 Sep 2018 20:23:00 -0500</pubDate>
+      <pubDate>Fri, 28 Sep 2018 20:23:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;A few days ago I read the following tweet somewhere on the internet !!&lt;/p&gt;
@@ -563,7 +563,7 @@ I love to read about a lot of varied topics and yes anything related to the comp
     <item>
       <title>An Empirical Investigation into Large-Scale Devops Pipeline programs</title>
       <link>https://ashwanikhemani.github.io/project/pa/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/pa/</guid>
       <description>&lt;ul&gt;

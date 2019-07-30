@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ashwanikhemani.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Monte-Carlo simulation with OctaPi cloud</title>
       <link>https://ashwanikhemani.github.io/project/mcs/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/mcs/</guid>
       <description>Performed Monte-Carlo simulation for evaluation of stock purchase decisions that runs on Spark and deployed on private OctaPi cloud using Kubernetes Java, Spark, Docker, K8s  Source Code available here .</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Parallelization of software testing using Hadoop Map-Reduce model and OctaPi Cluster</title>
       <link>https://ashwanikhemani.github.io/project/st/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/st/</guid>
       <description>Built and designed an OctaPi cloud cluster of Raspberry PI devices to run a Hadoop map/reduce application to make software testing process parallel and efficient Automated deploying, scaling, and operating application containers on Raspberry Pi using Kubernetes Java, Hadoop, Docker, K8s  Source Code available here .</description>

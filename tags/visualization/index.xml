@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 04 May 2019 20:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 20:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ashwanikhemani.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Chicago Real-Time AQ !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject3/</link>
-      <pubDate>Sat, 04 May 2019 20:00:00 -0500</pubDate>
+      <pubDate>Sat, 04 May 2019 20:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject3/</guid>
       <description>This is the third project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in Chicago real-time air quality and weather data visualizations in an interactive web application created using the R Shiny library.
@@ -28,7 +28,7 @@ An short video demonstration of the application is available on youtube .</descr
     <item>
       <title>Good Governments Help People Succeed!!</title>
       <link>https://ashwanikhemani.github.io/post/good_gov/</link>
-      <pubDate>Sat, 13 Apr 2019 17:00:00 -0500</pubDate>
+      <pubDate>Sat, 13 Apr 2019 17:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/good_gov/</guid>
       <description>Link to the visualization : Good Governments Help People Succeed
@@ -41,7 +41,7 @@ Gross Domestic Product (GDP) is commonly used as a metric to compare two countri
     <item>
       <title>Every Breath You Take !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject2/</link>
-      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject2/</guid>
       <description>This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.
@@ -52,7 +52,7 @@ You can learn more about the application here.</description>
     <item>
       <title>Every Breath You Take !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject2/</link>
-      <pubDate>Wed, 20 Mar 2019 13:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:00:00 -0700</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject2/</guid>
       <description>This is the second project for the CS 424 Visualization and Visual Analytics class at UIC. It consists in various visualizations and interactive plots in a web application created using the Shiny library for R. The visualizations are about the Air Quality dataset by County in the United States and Italy, concentrating on the yearly, daily and hourly data.
@@ -63,7 +63,7 @@ You can learn more about the application here.</description>
     <item>
       <title>Just Breathe Group - Interesting Things !!</title>
       <link>https://ashwanikhemani.github.io/post/project1group/</link>
-      <pubDate>Tue, 12 Feb 2019 17:00:00 -0600</pubDate>
+      <pubDate>Tue, 12 Feb 2019 17:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/project1group/</guid>
       <description>Group:
@@ -75,7 +75,7 @@ You can learn more about the application here.</description>
     <item>
       <title>Just Breathe !!</title>
       <link>https://ashwanikhemani.github.io/project/evlproject1/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/project/evlproject1/</guid>
       <description>This page contains the link to the visualization solution optimized for the EVL classroom wall and a description of how to use the application and the things that can be done with it.
@@ -88,7 +88,7 @@ The home page consists of a shiny dashboard with a side menu to choose what type
     <item>
       <title>Just Breathe - Code !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1code/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1code/</guid>
       <description>The code for the project can be found here .
@@ -102,7 +102,7 @@ The instructions to run the code:
     <item>
       <title>Just Breathe - Data!!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1data/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1data/</guid>
       <description>The page contains information about the data used in the Just Breathe project. The data was downloaded from the EPA website.
@@ -114,7 +114,7 @@ The files were then extracted and imported using R Studio to create visualizatio
     <item>
       <title>Just Breathe --Findings !!</title>
       <link>https://ashwanikhemani.github.io/post/evlproject1findings/</link>
-      <pubDate>Mon, 11 Feb 2019 19:00:00 -0600</pubDate>
+      <pubDate>Mon, 11 Feb 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evlproject1findings/</guid>
       <description>Project Link
@@ -126,7 +126,7 @@ The findings are given below for the Cook county of Illinois.
     <item>
       <title>The X-Rite Color Challenge and Hue Test !!</title>
       <link>https://ashwanikhemani.github.io/post/color_test/</link>
-      <pubDate>Wed, 30 Jan 2019 12:54:00 -0600</pubDate>
+      <pubDate>Wed, 30 Jan 2019 12:54:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/color_test/</guid>
       <description></description>
@@ -135,7 +135,7 @@ The findings are given below for the Cook county of Illinois.
     <item>
       <title>EVL Weather Application !!</title>
       <link>https://ashwanikhemani.github.io/post/evl/</link>
-      <pubDate>Thu, 24 Jan 2019 19:00:00 -0600</pubDate>
+      <pubDate>Thu, 24 Jan 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/evl/</guid>
       <description>Here is the link to the website deployed using shinny apps account
@@ -145,7 +145,7 @@ EVL Weather</description>
     <item>
       <title>Weather Updates !!</title>
       <link>https://ashwanikhemani.github.io/post/weather/</link>
-      <pubDate>Thu, 17 Jan 2019 19:00:00 -0600</pubDate>
+      <pubDate>Thu, 17 Jan 2019 19:00:00 -0800</pubDate>
       
       <guid>https://ashwanikhemani.github.io/post/weather/</guid>
       <description>I get my weather updates from the weather channel !!! I usually visit weather channel because it provides the most accurate and up to date weather updates. It shows hourly, daily and weekly weather forecast in an organized manner. The website and phone application are easy to navigate and to use. I highly recommend the application to everyone.</description>
